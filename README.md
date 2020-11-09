@@ -1,2 +1,4 @@
 # in_my_feelings
-using nlp to classify emotions
+An nlp exercise in classifying emotions
+
+Sentence-BERT to classify emotions in the same text.
